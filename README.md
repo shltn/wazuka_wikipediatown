@@ -1,0 +1,2 @@
+# wazuka_wikipediatown
+和束町ウィキペディアタウンで街歩きを行った成果です．
