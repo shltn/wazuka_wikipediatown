@@ -100,7 +100,7 @@
                 <Point>
                     <coordinates>135.896976208,34.7952994751,0.0</coordinates>
                 </Point>
-                <styleUrl>#style-0</styleUrl>
+                <styleUrl>#style-2</styleUrl>
             </Placemark>
             <Placemark>
                 <name>活道ケ丘公園</name>
@@ -140,7 +140,7 @@
                             <Point>
                                 <coordinates>135.895712134,34.7944112029,0.0</coordinates>
                             </Point>
-                            <styleUrl>#style-0</styleUrl>
+                            <styleUrl>#style-2</styleUrl>
                         </Placemark>
                         <Placemark>
                             <name>活道ヶ丘公園入口</name>
@@ -179,7 +179,7 @@
                                         <Point>
                                             <coordinates>135.8948448,34.7899848,0.0</coordinates>
                                         </Point>
-                                        <styleUrl>#style-0</styleUrl>
+                                        <styleUrl>#style-2</styleUrl>
                                     </Placemark>
                                     <Placemark>
                                         <name>安積親王陵墓</name>
@@ -218,7 +218,7 @@
                                                     <Point>
                                                         <coordinates>135.892819,34.7884342,0.0</coordinates>
                                                     </Point>
-                                                    <styleUrl>#style-0</styleUrl>
+                                                    <styleUrl>#style-2</styleUrl>
                                                 </Placemark>
                                                 <Placemark>
                                                     <name>坂尻古墳1号</name>
@@ -231,7 +231,7 @@
                                                         <Point>
                                                             <coordinates>135.892969826,34.7883902723,0.0</coordinates>
                                                         </Point>
-                                                        <styleUrl>#style-0</styleUrl>
+                                                        <styleUrl>#style-2</styleUrl>
                                                     </Placemark>
                                                     <Placemark>
                                                         <name>弥勒磨崖仏とFB!</name>
@@ -244,7 +244,7 @@
                                                             <Point>
                                                                 <coordinates>135.892034657,34.7889903328,0.0</coordinates>
                                                             </Point>
-                                                            <styleUrl>#style-0</styleUrl>
+                                                            <styleUrl>#style-2</styleUrl>
                                                         </Placemark>
                                                         <Placemark>
                                                             <name>釜塚山</name>
@@ -270,7 +270,7 @@
                                                                     <Point>
                                                                         <coordinates>135.894868747,34.7932426818,0.0</coordinates>
                                                                     </Point>
-                                                                    <styleUrl>#style-0</styleUrl>
+                                                                    <styleUrl>#style-2</styleUrl>
                                                                 </Placemark>
                                                                 <Placemark>
                                                                     <name>和束川</name>
@@ -309,7 +309,7 @@
                                                                                 <Point>
                                                                                     <coordinates>135.892163152,34.7891617427,0.0</coordinates>
                                                                                 </Point>
-                                                                                <styleUrl>#style-0</styleUrl>
+                                                                                <styleUrl>#style-2</styleUrl>
                                                                             </Placemark>
                                                                             <Placemark>
                                                                                 <name>犬打峠</name>
